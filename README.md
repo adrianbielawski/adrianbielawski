@@ -12,6 +12,7 @@ I am based in London, England where I am working as intern for [Apperio](https:/
 
 ## Published on [NPM](https://npmjs.com/~adrianbielawski)
 
+- [Storybook color picker](https://www.npmjs.com/package/storybook-color-picker)
 - [Orderable list](https://www.npmjs.com/package/@adrianbielawski/orderable-list)
 - [useSwipe React hook](https://www.npmjs.com/package/@adrianbielawski/use-swipe)
 
