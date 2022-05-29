@@ -1,7 +1,7 @@
 ## Hello, I'm [Adrian Bielawski](https://adrian.bielaw.ski)
 
-I am a front-end developer with 2 years experience and I am in love with TypeScript and React.  
-I am based in London, England where I am working as intern for [Apperio](https://apperio.com).
+I am a front-end developer with 3 years experience and I am in love with TypeScript and React.  
+I am based in London, England where I work for [Apperio](https://apperio.com).
 
 ## My projects
 
